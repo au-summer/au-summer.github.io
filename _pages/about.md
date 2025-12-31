@@ -11,18 +11,16 @@ redirect_from:
 
 I am a senior undergraduate student at the [University of Michigan, Ann Arbor](https://umich.edu/), majoring in Computer Science. I am also pursuing a dual degree in Mechanical Engineering at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
 
-Currently, I am a research intern at [OrderLab](https://orderlab.io/) under the supervision of [Professor Ryan Huang](https://web.eecs.umich.edu/~ryanph/), where I work on building reliable and efficient runtime infrastructure for machine learning systems.
+Currently, I am a research intern at [OrderLab](https://orderlab.io/) under the supervision of [Professor Ryan Huang](https://web.eecs.umich.edu/~ryanph/). My research lies at the intersection of **Systems and Machine Learning**, focusing on designing runtime infrastructure that remains resilient, adaptive, and efficient as workloads, hardware platforms, and system assumptions continue to evolve.
 
 <!-- My research focuses on **Systems for ML**, with a focus on how runtime infrastructure should be designed as workloads, hardware platforms, and system assumptions continue to evolve.  -->
 
-## Research Interests
-
-My research lies at the intersection of **Systems and Machine Learning**, focusing on designing runtime infrastructure that remains resilient, adaptive, and efficient as workloads, hardware platforms, and system assumptions continue to evolve.
-
-I am particularly interested in:
-- **Fault Tolerance for ML Systems**: Developing fine-grained recovery mechanisms for distributed GPU training that minimize overhead and work loss
-- **Adaptive Runtime Execution**: Building infrastructure that can dynamically adapt to changing workload characteristics without manual intervention
-- **GPU Runtime Infrastructure**: Designing abstractions that decouple execution context from persistent state to enable new system capabilities
+<!-- ## Research Interests -->
+<!---->
+<!-- I am particularly interested in: -->
+<!-- - **Fault Tolerance for ML Systems**: Developing fine-grained recovery mechanisms for distributed GPU training that minimize overhead and work loss -->
+<!-- - **Adaptive Runtime Execution**: Building infrastructure that can dynamically adapt to changing workload characteristics without manual intervention -->
+<!-- - **GPU Runtime Infrastructure**: Designing abstractions that decouple execution context from persistent state to enable new system capabilities -->
 
 <!-- ## Current Research -->
 <!---->
@@ -34,6 +32,10 @@ I am particularly interested in:
 
 - **Jan 2026**: Will be an Instructional Aide for EECS 482 (Introduction to Operating Systems) at University of Michigan!
 - **May 2025**: Started research internship at OrderLab, University of Michigan!
+
+## Projects
+
+TODO
 
 ## Contact
 
