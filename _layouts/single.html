@@ -81,7 +81,6 @@ layout: default
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
         {% endif %}
         {% include page__taxonomy.html %}
-        <p class="page__date"><i class="fa fa-fw fa-calendar-alt" aria-hidden="true"></i> <strong>Last updated:</strong> <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{{ page.last_modified_at | date: "%B %d, %Y" }}</time></p>
       </footer>
 
       {% if page.share %}{% include social-share.html %}{% endif %}
