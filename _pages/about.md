@@ -15,14 +15,14 @@ Currently, I am a research intern at [OrderLab](https://orderlab.io/) under the 
 
 <!-- My research focuses on **Systems for ML**, with a focus on how runtime infrastructure should be designed as workloads, hardware platforms, and system assumptions continue to evolve.  -->
 
-## Research Interests
-
-My research lies at the intersection of **Systems and Machine Learning**, focusing on designing runtime infrastructure that remains resilient, adaptive, and efficient as workloads, hardware platforms, and system assumptions continue to evolve.
-
-I am particularly interested in:
-- **Fault Tolerance for ML Systems**: Developing fine-grained recovery mechanisms for distributed GPU training that minimize overhead and work loss
-- **Adaptive Runtime Execution**: Building infrastructure that can dynamically adapt to changing workload characteristics without manual intervention
-- **GPU Runtime Infrastructure**: Designing abstractions that decouple execution context from persistent state to enable new system capabilities
+<!-- ## Research Interests -->
+<!---->
+<!-- My research lies at the intersection of **Systems and Machine Learning**, focusing on designing runtime infrastructure that remains resilient, adaptive, and efficient as workloads, hardware platforms, and system assumptions continue to evolve. -->
+<!---->
+<!-- I am particularly interested in: -->
+<!-- - **Fault Tolerance for ML Systems**: Developing fine-grained recovery mechanisms for distributed GPU training that minimize overhead and work loss -->
+<!-- - **Adaptive Runtime Execution**: Building infrastructure that can dynamically adapt to changing workload characteristics without manual intervention -->
+<!-- - **GPU Runtime Infrastructure**: Designing abstractions that decouple execution context from persistent state to enable new system capabilities -->
 
 <!-- ## Current Research -->
 <!---->
