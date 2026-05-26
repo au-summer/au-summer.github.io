@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-> **Seeking MS/PhD positions (Fall 2026) in Systems/AI Infra!**
-
 I am a senior undergraduate student at the [University of Michigan, Ann Arbor](https://umich.edu/), majoring in Computer Science. I am also pursuing a dual degree in Mechanical Engineering at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
 
 Currently, I am a research intern at [OrderLab](https://orderlab.io/) under the supervision of [Professor Ryan Huang](https://web.eecs.umich.edu/~ryanph/), where I work on building reliable and efficient runtime infrastructure for machine learning systems.
